@@ -1,0 +1,80 @@
+header {
+    background-image: url("./images/IMG_0051.JPG");
+}
+/* brushes section */
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes figure {
+    margin: 0px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.brushes p {
+    font-family: helvetica;
+}
+
+.brushes p span {
+    font-weight: bold;
+    color: blue;
+}
+/* Frames section */
+.frames h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.frames figure {
+    margin: 0px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.frames p {
+    font-family: helvetica;
+}
+
+.frames p span {
+    font-weight: bold;
+    color: blue;
+}
+/* Paint section */
+.paint h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue; 
+}
+
+.paint figure {
+    margin: 0px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.paint p {
+    font-family: helvetica;
+}
+
+.paint p span {
+    font-weight: bold;
+    color: blue;
+}
